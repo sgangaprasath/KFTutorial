@@ -9,6 +9,6 @@ This folder contains the `python` code that goes along with the article in this 
   <li>Using Kalman-Bucy filter to estimate the position of a Brownian particle in a harmonic potential</li>
 </ol>
 
- The folder also contains the LaTeX-sources files and figures in the article.
+ The folder also contains the LaTeX-sources files and figures of the article.
 
 ![Schematic](/figs/KFSchematic.png "Title poster")
