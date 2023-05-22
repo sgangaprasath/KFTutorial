@@ -1,6 +1,6 @@
 # Revisiting linear filtering, the Bayesian paradigm \& optimal state estimation
 
-This folder contains the `python` code that goes along with the article in this link.
+This folder contains the `python` code that goes along with the article in this [link](https://github.com/sgangaprasath/Publications/raw/master/KFTutorial.pdf).
 `KFTutorial.ipynb` is a jupyter-notebook to simulate 4 problems:
 <ol>
   <li>Least-squares fit/estimation of a time-series data</li>
