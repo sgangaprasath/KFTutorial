@@ -10,5 +10,6 @@ This folder contains the `python` code that goes along with the article in this 
 </ol>
 
 The folder also contains the LaTeX-sources files and figures of the article.
+
 This work was done in collaboration with [Vishaal Krishnan](https://vishaal-krishnan.github.io).
 ![Schematic](/figs/KFSchematic.png "Title poster")
